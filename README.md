@@ -19,10 +19,10 @@ This is the main file. It is the SQL script that builds the whole database. It c
 2. structure.pdf
 This is basically the documentation or reference sheet. If you don't want to read the code directly, you can look at this PDF to see the table structures, column names, and how everything connects.
 
-How to run it:
+**How to run it:**
 You just need a SQL tool like MySQL Workbench. Download the SQL file, open it up, and run the script. It should create the database and fill it with data automatically.
 
-What it handles:
+**What it handles:**
 - Keeping track of customers and what they bought
 - Managing stock of cars and spare parts
 - Handling sales orders and payments
