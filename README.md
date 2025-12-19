@@ -1,4 +1,14 @@
 
+
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/ec6ee30e-59bf-4740-95b1-2bcd4392358c" />
+
+
+
+
+
+
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/39fbf98e-5f4b-46ed-b90c-c5a072ddd9c1" />
+
 Maruti Suzuki Database Project
 
 Hey, thanks for checking out this project. This is a database system I built to handle operations for a car dealership network (specifically modeled after Maruti Suzuki). It covers the whole flow—from customers buying cars to tracking inventory and handling service records.
