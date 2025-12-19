@@ -14,7 +14,7 @@
 1. dbms.sql
 This is the main file. It is the SQL script that builds the whole database. It creates the database named "maruti_suzuki_db" and sets up all the tables like Customers, Vehicles, Orders, and Employees.
 
-I also included some sample data in there (INSERT statements) so when you run it, the tables won't be empty. You will see dummy data for things like car models, a few customers, and service records just to show how it works.
+   I also included some sample data in there (INSERT statements) so when you run it, the tables won't be empty. You will see dummy data for things like car models, a few customers, and service records just to show how it works.
 
 2. structure.pdf
 This is basically the documentation or reference sheet. If you don't want to read the code directly, you can look at this PDF to see the table structures, column names, and how everything connects.
