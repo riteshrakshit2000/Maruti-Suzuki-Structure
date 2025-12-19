@@ -11,7 +11,7 @@
 
 Maruti Suzuki Database Project
 
-Hey, thanks for checking out this project. This is a database system I built to handle operations for a car dealership network (specifically modeled after Maruti Suzuki). It covers the whole flow—from customers buying cars to tracking inventory and handling service records.
+ This is a database system I built to handle operations for a car dealership network (specifically modeled after Maruti Suzuki). It covers the whole flow—from customers buying cars to tracking inventory and handling service records.
 
 Here is what is inside the files:
 
