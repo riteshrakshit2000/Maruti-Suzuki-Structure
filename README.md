@@ -5,11 +5,11 @@
 
 <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/39fbf98e-5f4b-46ed-b90c-c5a072ddd9c1" />
 
-<Maruti Suzuki Database Project>
+**Maruti Suzuki Database Project**
 
  This is a database system I built to handle operations for a car dealership network (specifically modeled after Maruti Suzuki). It covers the whole flow—from customers buying cars to tracking inventory and handling service records.
 
-Here is what is inside the files:
+**Here is what is inside the files:**
 
 1. dbms.sql
 This is the main file. It is the SQL script that builds the whole database. It creates the database named "maruti_suzuki_db" and sets up all the tables like Customers, Vehicles, Orders, and Employees.
