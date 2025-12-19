@@ -5,9 +5,7 @@
 
 
 
-
-
-                                   <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/39fbf98e-5f4b-46ed-b90c-c5a072ddd9c1" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/39fbf98e-5f4b-46ed-b90c-c5a072ddd9c1" />
 
 Maruti Suzuki Database Project
 
